@@ -1,7 +1,7 @@
 ---
 name: global-company-person-colleague-zh
 description: 依托全球企业资料库查找目标人员或企业对应的同事及内部团队成员，梳理企业内部人脉网络，助力外贸销售和猎头人员拓展业务人脉，实现精准客户触达。
-metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🤝","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.4","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🤝","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 全球企业库同事查询
